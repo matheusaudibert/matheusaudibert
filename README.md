@@ -6,7 +6,6 @@
 </div>
 
  &nbsp;
- &nbsp;
 
 ## My Skills
 
