@@ -1,8 +1,8 @@
 ## 👋 Olá, eu sou o Matheus Audibert!
 
 <div  align="center" style="margin-bottom:100px">
-  <img width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=matheusaudibert&show_icons=true&theme=dark&include_all_commits-true&count_private-true">
-  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaudibert&layout=compact&theme=dark">
+  <img width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=matheusaudibert&show_icons=true&theme=dracula&include_all_commits-true&count_private-true">
+  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaudibert&layout=compact&theme=dracula">
 </div>
 
  &nbsp;
@@ -63,3 +63,5 @@
 <a href="https://discord.gg/UYSHVQRY" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"  target="_blank"></a>
 &nbsp;
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer">
