@@ -3,6 +3,7 @@
 &nbsp;
 
 <div  align="center" style="margin-bottom:100px">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   <img width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=Matheusaudibert&show_icons=true&theme=dracula&include_all_commits-true&count_private-true">
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaudibert&layout=compact&theme=dracula">
 </div>
