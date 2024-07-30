@@ -2,9 +2,9 @@
 
 &nbsp;
 
-<div>
-  <img heitgh="10em" src="https://github-readme-stats.vercel.app/api?username=matheusaudibert&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img heitgh="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusaudibert&theme=blue_navy&hide_border=true"/>
+<div style="display: flex; align-items: center;">
+  <img heitgh="200em" src="https://github-readme-stats.vercel.app/api?username=matheusaudibert&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false"/>
+  <img heitgh="10px" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusaudibert&theme=blue_navy&hide_border=true"/>
 </div>
   
 ## My Skills
