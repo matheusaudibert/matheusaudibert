@@ -1,11 +1,6 @@
 ## 👋 Hey, what's up? I'm Matheus Audibert! 👨‍💻
 
-&nbsp;
-
-
   [![matheusaudibert GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusaudibert)](https://github.com/matheusaudibert/github-readme-stats)
-
-&nbsp;
 
 ## My Skills
 
