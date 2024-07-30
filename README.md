@@ -4,7 +4,7 @@
 
 <div>
   <img heitgh="160em" src="https://github-readme-stats.vercel.app/api?username=matheusaudibert&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img heitgh="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusaudibert&theme=blue_navy&hide_border=true"/>
+  <img heitgh="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusaudibert&theme=blue_navy&hide_border=true"/>
 </div>
   
 ## My Skills
