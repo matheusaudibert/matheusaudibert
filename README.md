@@ -6,7 +6,7 @@
   <img heitgh="160em" src="https://github-readme-stats.vercel.app/api?username=matheusaudibert&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false"/>
   <img heitgh="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusaudibert&theme=blue_navy&hide_border=true"/>
 </div>
-  [![matheusaudibert GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusaudibert)](https://github.com/matheusaudibert/github-readme-stats)
+  
 ## My Skills
 
 #### Main Stack:
