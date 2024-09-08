@@ -1,8 +1,5 @@
 ## Hey, what's up? I'm Matheus Audibert! 🌌 
 
-&nbsp;
-
-
 Desenvolvedor(a) apaixonado(a) por tecnologia e sempre em busca de aprender e criar soluções que fazem a diferença.
 
 ## Meu ultimo video
