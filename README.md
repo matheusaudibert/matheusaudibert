@@ -31,4 +31,5 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 [![LINKEDIN](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/matheusaudibert/)
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:audibertmatheus2019@gmail.com)
 [![YOUTUBE](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tlvzaudibert)
-[![INSTAGRAM](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@audlbert)
+[![DISCORD](https://skillicons.dev/icons?i=discord)](https://www.youtube.com/@audlbert)
+[![INSTAGRAM](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1B4THFVdmZlTHk5MW9FQVQwc2hhdmdlYXJ5UXxBQ3Jtc0trTTlIMHNNRDNMSUhOZndJMVZwd0QyUTlaZFd6bUdPSzA4Z1lrcGdwNG5ORGVhYUpwU1hpRDJ5WVBiUUpJUGdWWmdhbzdxQmJ4M2RvQjVRM2NyNGNRSzNVbzY0ZDh3MGFjekFZc09DRVBVZFhDQlBxbw&q=https%3A%2F%2Fdiscord.com%2Fusers%2F1207081250096029801&v=GhN3iw0YLWQ)
