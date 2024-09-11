@@ -15,7 +15,7 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/matheusaudibert?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
     
-## Stats
+## Github tats
 <div align="center">
       <img width="400px" src="https://github-readme-stats.vercel.app/api?username=matheusaudibert&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false"/>
       <img width="439px" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusaudibert&theme=blue_navy&hide_border=true"/>
