@@ -29,3 +29,7 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 </div>
 
 ## Social
+[![LINKEDIN](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/matheusaudibert/)
+[![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:audibertmatheus2019@gmail.com)
+[![YOUTUBE](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tlvzaudibert)
+[![INSTAGRAM](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@audlbert)
