@@ -15,18 +15,17 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/matheusaudibert?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
     
+## Stats
+<div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=matheusaudibert&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false"/>
+      <img width="494px" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusaudibert&theme=blue_navy&hide_border=true"/>
+</div>
 
 ## Languages and Tools
 <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,git,github" />
 
 ## DataBases
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-
-## Stats
-<div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=matheusaudibert&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false"/>
-      <img width="494px" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusaudibert&theme=blue_navy&hide_border=true"/>
-</div>
 
 ## Social
 [![LINKEDIN](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/matheusaudibert/)
