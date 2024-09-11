@@ -1,38 +1,29 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=matheusaudibert.matheusaudibert" />
+# Hey, what's up? I`m Matheus Audibert 👨‍💻
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Matheus+Audibert!;" />
-</h1>
+I'm a full-stack developer and content creator, passionate about programming and technology, with a special focus on Artificial Intelligence. I love building projects, and I'm always looking for new ways to solve real-world problems with code. Here, you'll find some of my latest projects where I explore various technologies and languages, always with the goal of learning and sharing knowledge.
 
-<h3 align="center">A passionate software developer from Brazil</h3>
+I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@audlbert)"
 
-<br/>
+<p align="left">
+      <a href="https://www.youtube.com/channel/UCIO1e3zJ-c2oQCWnmY4nqIQ?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCIO1e3zJ-c2oQCWnmY4nqIQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/channel/UCIO1e3zJ-c2oQCWnmY4nqIQ">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCIO1e3zJ-c2oQCWnmY4nqIQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/matheusaudibert?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/matheusaudibert?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/matheusaudibert?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/matheusaudibert?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+    
 
+## Languages and Tools
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,git,github" />
+
+## DataBases
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+## Stats
 <div align="center">
- 
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  <img width="" src="https://github-readme-stats.vercel.app/api?username=matheusaudibert&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false"/>
+  <img width="" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusaudibert&theme=blue_navy&hide_border=true"/>
 </div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
-
-<br/>
-<hr/>
