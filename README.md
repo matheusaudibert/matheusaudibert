@@ -4,7 +4,10 @@ I'm a full-stack developer and content creator, passionate about programming and
 
 I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@audlbert)"
 
+
+
 <p align="left">
+      ![](https://komarev.com/ghpvc/?username=matheusaudibert&style=for-the-badge)
       <a href="https://www.youtube.com/channel/UCIO1e3zJ-c2oQCWnmY4nqIQ?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCIO1e3zJ-c2oQCWnmY4nqIQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/channel/UCIO1e3zJ-c2oQCWnmY4nqIQ">
