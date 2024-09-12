@@ -33,7 +33,6 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![ensinando CIÊNCIA DA COMPUTAÇÃO para CABAÇOS](https://ytcards.demolab.com/?id=GhN3iw0YLWQ&title=ensinando+CI%C3%8ANCIA+DA+COMPUTA%C3%87%C3%83O+para+CABA%C3%87OS&lang=en&timestamp=1723320461&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=967 "ensinando CIÊNCIA DA COMPUTAÇÃO para CABAÇOS")](https://www.youtube.com/watch?v=GhN3iw0YLWQ)
-[![COMO ESTICAR A TELA DO VALORANT NO NOTEBOOK (ATUALIZADO)](https://ytcards.demolab.com/?id=U5Vwin4lkps&title=COMO+ESTICAR+A+TELA+DO+VALORANT+NO+NOTEBOOK+%28ATUALIZADO%29&lang=en&timestamp=1705714383&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=231 "COMO ESTICAR A TELA DO VALORANT NO NOTEBOOK (ATUALIZADO)")](https://www.youtube.com/watch?v=U5Vwin4lkps)
 <!-- END YOUTUBE-CARDS -->
 
 ## Social
