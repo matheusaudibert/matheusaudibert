@@ -8,14 +8,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # Allow the job to commit to the repository
     permissions:
       contents: write
-    # Run the GitHub Readme YouTube Cards action
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCIO1e3zJ-c2oQCWnmY4nqIQ
           comment_tag_name: YOUTUBE-CARDS
-          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }} # Configured in Actions Secrets (see Wiki)
-          show_duration: true # Requires YouTube API Key (see Wiki)
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          background_color: #ccc
+          show_duration: true
