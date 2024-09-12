@@ -25,7 +25,7 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 
 ## Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,git,github" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,php,js,html,css,react,git,github" />
 
 ## DataBases
 
