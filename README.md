@@ -33,7 +33,7 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 ## Latest Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![eu fiz o MESMO CÓDIGO em VÁRIAS LINGUAGENS de PROGRAMAÇÃO](https://ytcards.demolab.com/?id=UT8Z3U5gDsc&title=eu+fiz+o+MESMO+C%C3%93DIGO+em+V%C3%81RIAS+LINGUAGENS+de+PROGRAMA%C3%87%C3%83O&lang=en&timestamp=1727198058&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1055 "eu fiz o MESMO CÓDIGO em VÁRIAS LINGUAGENS de PROGRAMAÇÃO")](https://www.youtube.com/watch?v=UT8Z3U5gDsc)
+[![Eu fiz o mesmo código em várias linguagens](https://ytcards.demolab.com/?id=UT8Z3U5gDsc&title=Eu+fiz+o+mesmo+c%C3%B3digo+em+v%C3%A1rias+linguagens&lang=en&timestamp=1727198058&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1055 "Eu fiz o mesmo código em várias linguagens")](https://www.youtube.com/watch?v=UT8Z3U5gDsc)
 [![ensinando CIÊNCIA DA COMPUTAÇÃO para CABAÇOS](https://ytcards.demolab.com/?id=GhN3iw0YLWQ&title=ensinando+CI%C3%8ANCIA+DA+COMPUTA%C3%87%C3%83O+para+CABA%C3%87OS&lang=en&timestamp=1723320461&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=967 "ensinando CIÊNCIA DA COMPUTAÇÃO para CABAÇOS")](https://www.youtube.com/watch?v=GhN3iw0YLWQ)
 <!-- END YOUTUBE-CARDS -->
 
