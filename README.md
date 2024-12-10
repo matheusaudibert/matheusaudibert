@@ -39,5 +39,7 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 
 ## Social
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1274150219482660897)](https://discord.com/users/1274150219482660897)
+
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:audibertmatheus2019@gmail.com)
 [![YOUTUBE](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tlvzaudibert)
