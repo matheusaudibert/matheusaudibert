@@ -19,7 +19,7 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 ## Github Stats
 <div align="center">
       <img width="400px" src="https://github-readme-stats.vercel.app/api?username=matheusaudibert&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false"/>
-      <img width="439px" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusaudibert"/>
+      <img width="439px" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusaudibert&theme=blue_navy&hide_border=true"/>
 </div>
 
 ## Languages and Tools
