@@ -28,7 +28,7 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 
 ## DataBases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=mongo,postgres,mysql" />
 
 ## Latest Videos
 
