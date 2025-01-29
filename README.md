@@ -37,10 +37,11 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 [![Ensinando CIÊNCIA DA COMPUTAÇÃO para Cabaços](https://ytcards.demolab.com/?id=GhN3iw0YLWQ&title=Ensinando+CI%C3%8ANCIA+DA+COMPUTA%C3%87%C3%83O+para+Caba%C3%A7os&lang=en&timestamp=1723320461&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=967 "Ensinando CIÊNCIA DA COMPUTAÇÃO para Cabaços")](https://www.youtube.com/watch?v=GhN3iw0YLWQ)
 <!-- END YOUTUBE-CARDS -->
 
-## Social
+## Socials
 [![Discord Presence](https://lanyard.cnrad.dev/api/1274150219482660897)](https://discord.com/users/1274150219482660897)
 
 
-[![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:audibertmatheus2019@gmail.com)
+[![GMAIL](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@audibert)
+[![YOUTUBE](https://skillicons.dev/icons?i=gmail)](mailto:audibertmatheus2019@gmail.com)
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tlvzaudibert)
 [![TWITTER](https://skillicons.dev/icons?i=twitter)](https://x.com/audiberttt)
