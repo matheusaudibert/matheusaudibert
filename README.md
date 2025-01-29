@@ -1,4 +1,4 @@
-# Hey, what's up? I`m Matheus Audibert 👨‍💻
+# 👋 Hey, what's up? I`m Matheus Audibert 👨‍💻
 
 I'm a full-stack developer and content creator, passionate about programming and technology, with a special focus on Artificial Intelligence. I love building projects, and I'm always looking for new ways to solve real-world problems with code. Here, you'll find some of my latest projects where I explore various technologies and languages, always with the goal of learning and sharing knowledge.
 
