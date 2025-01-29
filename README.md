@@ -24,7 +24,7 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 
 ## Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=js,react,python,cpp,c,html,css,git,github" />
+<img src="https://skillicons.dev/icons?i=js,react,python,cpp,c,discordjs,html,css,vscode,git,github" />
 
 ## DataBases
 
@@ -42,6 +42,7 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 
 
 [![GMAIL](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@audibert)
+[![DISCORD](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1274150219482660897)
 [![YOUTUBE](https://skillicons.dev/icons?i=gmail)](mailto:audibertmatheus2019@gmail.com)
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tlvzaudibert)
 [![TWITTER](https://skillicons.dev/icons?i=twitter)](https://x.com/audiberttt)
