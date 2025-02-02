@@ -1,6 +1,6 @@
 # 👋 Hey, what's up? I`m Matheus Audibert 👨‍💻
 
-I'm a software developer and content creator, passionate about programming and technology, with a special focus on React/JavaScript. I love building projects, and I'm always looking for new ways to solve real-world problems with code. Here, you'll find some of my latest projects where I explore various technologies and languages, always with the goal of learning and sharing knowledge.
+I'm a software developer and content creator, passionate about programming and technology. I love building projects, and I'm always looking for new ways to solve real-world problems with code. Here, you'll find some of my latest projects where I explore various technologies and languages, always with the goal of learning and sharing knowledge.
 
 I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@audibert)"!
 
