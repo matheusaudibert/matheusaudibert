@@ -34,7 +34,7 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Eu criei a minha PRÓPRIA API](https://ytcards.demolab.com/?id=3sJCXoxgbHQ&title=Eu+criei+a+minha+PR%C3%93PRIA+API&lang=en&timestamp=1739839560&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=869 "Eu criei a minha PRÓPRIA API")](https://www.youtube.com/watch?v=3sJCXoxgbHQ)
-[![Eu Fiz o Mesmo Código em Várias Linguagens](https://ytcards.demolab.com/?id=UT8Z3U5gDsc&title=Eu+Fiz+o+Mesmo+C%C3%B3digo+em+V%C3%A1rias+Linguagens&lang=en&timestamp=1727198058&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1055 "Eu Fiz o Mesmo Código em Várias Linguagens")](https://www.youtube.com/watch?v=UT8Z3U5gDsc)
+[![Eu fiz o MESMO CÓDIGO em VÁRIAS LINGUAGENS](https://ytcards.demolab.com/?id=UT8Z3U5gDsc&title=Eu+fiz+o+MESMO+C%C3%93DIGO+em+V%C3%81RIAS+LINGUAGENS&lang=en&timestamp=1727198058&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1055 "Eu fiz o MESMO CÓDIGO em VÁRIAS LINGUAGENS")](https://www.youtube.com/watch?v=UT8Z3U5gDsc)
 [![Ensinando CIÊNCIA DA COMPUTAÇÃO para Cabaços](https://ytcards.demolab.com/?id=GhN3iw0YLWQ&title=Ensinando+CI%C3%8ANCIA+DA+COMPUTA%C3%87%C3%83O+para+Caba%C3%A7os&lang=en&timestamp=1723320461&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=967 "Ensinando CIÊNCIA DA COMPUTAÇÃO para Cabaços")](https://www.youtube.com/watch?v=GhN3iw0YLWQ)
 <!-- END YOUTUBE-CARDS -->
 
