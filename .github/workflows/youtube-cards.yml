@@ -17,3 +17,4 @@ jobs:
           comment_tag_name: YOUTUBE-CARDS
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           show_duration: true
+          min_duration: 300
