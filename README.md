@@ -45,7 +45,7 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 <!-- END YOUTUBE-CARDS -->
 
 ## Socials
-[![Discord Presence](https://lanyard.cnrad.dev/api/1274150219482660897)](https://discord.com/users/1274150219482660897)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1274150219482660897?hideStatus=true&hideClan=true&animatedDecoration=true&hideBadges=true&theme=dark)](https://discord.com/users/1274150219482660897)
 
 [![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@audibert)
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:audibertmatheus2019@gmail.com)
