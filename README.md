@@ -52,5 +52,3 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 [![DISCORD](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1274150219482660897)
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tlvzaudibert)
 [![TWITTER](https://skillicons.dev/icons?i=twitter)](https://x.com/audiberttt)
-
-[![YouTube Card](https://youtube-cards-wl3j.onrender.com/api?id=8jqjCrNOlb4&theme=github&max_title_lines=1&show_duration=false)](https://youtube.com/watch?v=8jqjCrNOlb4)
