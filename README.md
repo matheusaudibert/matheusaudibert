@@ -35,10 +35,6 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo" />
 
-## Latest Videos
-
-**MY CHANNEL WAS DELETED. IM STILL TRYING TO GET IT BACK**
-
 ## Socials
 [![Discord Presence](https://lanyard.cnrad.dev/api/1274150219482660897?hideStatus=true&hideClan=true&animatedDecoration=true&hideBadges=true&theme=dark)](https://discord.com/users/1274150219482660897)
 
