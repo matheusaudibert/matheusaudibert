@@ -35,6 +35,13 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo" />
 
+## Latest Videos
+
+[![YouTube Card](https://youtube-cards-0wtu.onrender.com/api/RcBNKG2X6jU?width=250&theme=github&max_title_lines=1&show_duration=false)](https://youtube.com/watch?v=RcBNKG2X6jU)
+[![YouTube Card](https://youtube-cards-0wtu.onrender.com/api/3sJCXoxgbHQ?width=250&theme=github&max_title_lines=1&show_duration=false)](https://youtube.com/watch?v=3sJCXoxgbHQ)
+[![YouTube Card](https://youtube-cards-0wtu.onrender.com/api/UT8Z3U5gDsc?width=250&theme=github&max_title_lines=1&show_duration=false)](https://youtube.com/watch?v=UT8Z3U5gDsc)
+[![YouTube Card](https://youtube-cards-0wtu.onrender.com/api/GhN3iw0YLWQ?width=250&theme=github&max_title_lines=1&show_duration=false)](https://youtube.com/watch?v=GhN3iw0YLWQ)
+
 ## Socials
 [![Discord Presence](https://lanyard.cnrad.dev/api/1274150219482660897?hideStatus=true&hideClan=true&animatedDecoration=true&hideBadges=true&theme=dark)](https://discord.com/users/1274150219482660897)
 
