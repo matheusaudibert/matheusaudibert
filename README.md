@@ -29,7 +29,7 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 
 ## Learning
 
-<img src="https://skillicons.dev/icons?i=ts,react,next,nest" />
+<img src="https://skillicons.dev/icons?i=ts,react,next" />
 
 ## DataBases
 
