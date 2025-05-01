@@ -46,7 +46,7 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1274150219482660897?hideStatus=true&hideClan=true&animatedDecoration=true&hideBadges=true&theme=dark)](https://discord.com/users/1274150219482660897)
 
 [![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@audibert)
-[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)]([https://www.youtube.com/@audibert](https://www.linkedin.com/in/matheusaudibert/))
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/matheusaudibert/)
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:audibertmatheus2019@gmail.com)
 [![DISCORD](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1274150219482660897)
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tlvzaudibert)
