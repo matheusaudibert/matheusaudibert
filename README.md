@@ -42,9 +42,11 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 [![YouTube Card](https://youtube-cards-0wtu.onrender.com/api/UT8Z3U5gDsc?width=250&theme=github&max_title_lines=1&show_duration=false)](https://youtube.com/watch?v=UT8Z3U5gDsc)
 [![YouTube Card](https://youtube-cards-0wtu.onrender.com/api/GhN3iw0YLWQ?width=250&theme=github&max_title_lines=1&show_duration=false)](https://youtube.com/watch?v=GhN3iw0YLWQ)
 
-## Socials
+## Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1274150219482660897?hideStatus=true&hideClan=true&animatedDecoration=true&hideBadges=true&theme=dark)](https://discord.com/users/1274150219482660897)
+[![Discord Server](https://discord-invite-readme.onrender.com/invite/1112920281367973900)](https://discord.gg/t86nFuCrbj)
 
+##Socials
 [![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@audibert)
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/matheusaudibert/)
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:audibertmatheus2019@gmail.com)
