@@ -48,6 +48,7 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 [![Discord Server](https://discord-invite-readme.onrender.com/invite/1366183086022197278)](https://discord.gg/t86nFuCrbj)
 
 ## Socials
+
 [![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@audibert)
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/matheusaudibert/)
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:audibertmatheus2019@gmail.com)
