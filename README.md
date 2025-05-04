@@ -43,7 +43,7 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 [![YouTube Card](https://youtube-cards-0wtu.onrender.com/api/GhN3iw0YLWQ?width=250&theme=github&max_title_lines=1&show_duration=false)](https://youtube.com/watch?v=GhN3iw0YLWQ)
 
 ## Discord
-[![Discord Server](https://discord-invite-readme.onrender.com/invite/1112920281367973900)](https://discord.gg/t86nFuCrbj)
+[![Discord Server](https://discord-invite-readme.onrender.com/invite/1366183086022197278)](https://discord.gg/t86nFuCrbj)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1274150219482660897?hideStatus=true&hideClan=true&animatedDecoration=true&hideBadges=true&theme=dark)](https://discord.com/users/1274150219482660897)
 
