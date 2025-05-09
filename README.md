@@ -24,7 +24,7 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 
 ## Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,cpp,c,discordjs,html,css,vscode,aws,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,cpp,c,discordjs,html,css,vscode,aws,docker,git,github" />
 
 
 ## Learning
