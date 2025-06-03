@@ -51,9 +51,10 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 
 ## Socials
 
+[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tlvzaudibert)
+[![TWITTER](https://skillicons.dev/icons?i=twitter)](https://x.com/audibwrt)
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/matheusaudibert/)
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:matheusaudibert2019@outlook.com)
 [![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@audibert)
 [![DISCORD](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1274150219482660897)
-[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tlvzaudibert)
-[![TWITTER](https://skillicons.dev/icons?i=twitter)](https://x.com/audibwrt)
+
