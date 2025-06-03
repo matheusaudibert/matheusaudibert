@@ -16,7 +16,7 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/matheusaudibert?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-Winner of [Alura's AI Bootcamp (Imersão IA)](https://grupoalura.notion.site/Imers-o-IA-Guia-de-Mergulho-1d2379bdd09b803982a5ee1abd89e0cb), a program focused on artificial intelligence and innovation. Check my project [here](https://github.com/matheusaudibert/projeto-aprova).
+🏅 Winner of [Alura's AI Bootcamp (Imersão IA)](https://grupoalura.notion.site/Imers-o-IA-Guia-de-Mergulho-1d2379bdd09b803982a5ee1abd89e0cb), a program focused on artificial intelligence and innovation. Check my project [here](https://github.com/matheusaudibert/projeto-aprova).
 
 ## Github Stats
 <div align="center">
