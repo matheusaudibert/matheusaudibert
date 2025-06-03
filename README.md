@@ -46,8 +46,8 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 
 ## Discord
 
-![Discord Presence](https://lanyard.cnrad.dev/api/1274150219482660897?hideStatus=true&hideClan=true&animatedDecoration=true&hideBadges=true&theme=dark)
-![Discord Server Card](https://cardzera.onrender.com/api/1112920281367973900?t={timestamp})
+[![Discord Presence](https://lanyard.cnrad.dev/api/1274150219482660897?hideStatus=true&hideClan=true&animatedDecoration=true&hideBadges=true&theme=dark)](https://discord.com/users/1274150219482660897)
+[![Discord Server Card](https://cardzera.onrender.com/api/1112920281367973900?t={timestamp})](https://discord.gg/servidordosprogramadores)
 
 ## Socials
 
