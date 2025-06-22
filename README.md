@@ -39,10 +39,11 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
 
 ## Latest Videos
 
-[![YouTube Card](https://youtube-cards-0wtu.onrender.com/api/RcBNKG2X6jU?width=250&theme=github&max_title_lines=1&show_duration=false)](https://youtube.com/watch?v=RcBNKG2X6jU)
-[![YouTube Card](https://youtube-cards-0wtu.onrender.com/api/3sJCXoxgbHQ?width=250&theme=github&max_title_lines=1&show_duration=false)](https://youtube.com/watch?v=3sJCXoxgbHQ)
-[![YouTube Card](https://youtube-cards-0wtu.onrender.com/api/UT8Z3U5gDsc?width=250&theme=github&max_title_lines=1&show_duration=false)](https://youtube.com/watch?v=UT8Z3U5gDsc)
-[![YouTube Card](https://youtube-cards-0wtu.onrender.com/api/GhN3iw0YLWQ?width=250&theme=github&max_title_lines=1&show_duration=false)](https://youtube.com/watch?v=GhN3iw0YLWQ)
+[![YouTube Card](https://ytcards.audibert.dev/api/aO3A4S2ag8s?width=250&theme=github&max_title_lines=1&show_duration=false)](https://youtube.com/watch?v=aO3A4S2ag8s)
+[![YouTube Card](https://ytcards.audibert.dev/api/RcBNKG2X6jU?width=250&theme=github&max_title_lines=1&show_duration=false)](https://youtube.com/watch?v=RcBNKG2X6jU)
+[![YouTube Card](https://ytcards.audibert.dev/api/3sJCXoxgbHQ?width=250&theme=github&max_title_lines=1&show_duration=false)](https://youtube.com/watch?v=3sJCXoxgbHQ)
+[![YouTube Card](https://ytcards.audibert.dev/api/UT8Z3U5gDsc?width=250&theme=github&max_title_lines=1&show_duration=false)](https://youtube.com/watch?v=UT8Z3U5gDsc)
+[![YouTube Card](https://ytcards.audibert.dev/api/GhN3iw0YLWQ?width=250&theme=github&max_title_lines=1&show_duration=false)](https://youtube.com/watch?v=GhN3iw0YLWQ)
 
 ## Discord
 
