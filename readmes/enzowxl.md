@@ -11,9 +11,9 @@ I publish my content on my YouTube channel [audibert](https://www.youtube.com/@a
 
 Latest Videos
 
-[![YouTube Card](https://ytcards.audibert.dev/api/aO3A4S2ag8s?width=250&theme=dark&max_title_lines=1&show_duration=true)](https://youtube.com/watch?v=aO3A4S2ag8s)
-[![YouTube Card](https://ytcards.audibert.dev/api/RcBNKG2X6jU?width=250&theme=dark&max_title_lines=1&show_duration=true)](https://youtube.com/watch?v=RcBNKG2X6jU)
-[![YouTube Card](https://ytcards.audibert.dev/api/3sJCXoxgbHQ?width=250&theme=dark&max_title_lines=1&show_duration=true)](https://youtube.com/watch?v=3sJCXoxgbHQ)
+[![YouTube Card](https://ytcards.audibert.dev/api/aO3A4S2ag8s?width=250&background_color=000000&max_title_lines=2&show_duration=false)](https://youtube.com/watch?v=aO3A4S2ag8s)
+[![YouTube Card](https://ytcards.audibert.dev/api/RcBNKG2X6jU?width=250&background_color=000000&max_title_lines=2&show_duration=false)](https://youtube.com/watch?v=RcBNKG2X6jU)
+[![YouTube Card](https://ytcards.audibert.dev/api/3sJCXoxgbHQ?width=250&background_color=000000&max_title_lines=2&show_duration=false)](https://youtube.com/watch?v=3sJCXoxgbHQ)
 
 Winner of [Alura's AI Bootcamp](https://grupoalura.notion.site/Imers-o-IA-Guia-de-Mergulho-1d2379bdd09b803982a5ee1abd89e0cb) (Imersão IA).
 
