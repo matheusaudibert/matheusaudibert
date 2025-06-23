@@ -1,6 +1,6 @@
 ## Matheus Audibert
 
-Hello, my name is Matheus Audibert, I'm a software engineering student and I really like developing softwares.
+Hello, my name is Matheus Audibert, I'm a brazilian software engineering student and I really like developing softwares.
 
 I publish my content on my YouTube channel [audibert](https://www.youtube.com/@audibert).
 
@@ -8,6 +8,10 @@ I publish my content on my YouTube channel [audibert](https://www.youtube.com/@a
 [![VIEWS](https://custom-icon-badges.demolab.com/youtube/channel/views/UCIO1e3zJ-c2oQCWnmY4nqIQ?color=000000&label=VIEWS&logo=eye&logoColor=white&style=for-the-badge&labelColor=000000)](https://www.youtube.com/channel/UCIO1e3zJ-c2oQCWnmY4nqIQ)
 [![FOLLOW](https://custom-icon-badges.demolab.com/github/followers/matheusaudibert?color=000000&label=FOLLOW&logo=github&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/matheusaudibert?tab=followers)
 [![STARS](https://custom-icon-badges.demolab.com/github/stars/matheusaudibert?color=000000&label=STARS&logo=star&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/matheusaudibert?tab=repositories&sort=stargazers)
+
+Latest Video
+
+[![YouTube Card](https://ytcards.audibert.dev/api/aO3A4S2ag8s?width=250&theme=github&max_title_lines=1&show_duration=true)](https://youtube.com/watch?v=aO3A4S2ag8s)
 
 Winner of [Alura's AI Bootcamp](https://grupoalura.notion.site/Imers-o-IA-Guia-de-Mergulho-1d2379bdd09b803982a5ee1abd89e0cb) (Imersão IA).
 
@@ -42,5 +46,5 @@ Socials
 
 Join my Discord servers
 
-[![DISCORD SERVER](https://cardzera.audibert.dev/api/1383718526694461532?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&buttonBorderRadius&borderRadius=0&t={timestamp})](https://discord.gg/bJdhWHDg5W)
-[![DISCORD SERVER](https://cardzera.audibert.dev/api/1112920281367973900?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&buttonBorderRadius&borderRadius=0&t={timestamp})](https://discord.gg/servidordosprogramadores)
+[![DISCORD SERVER](https://cardzera.audibert.dev/api/1383718526694461532?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&buttonBorderRadius&borderRadius=0&buttonText=Join%20my%20professional%20server&t={timestamp})](https://discord.gg/bJdhWHDg5W)
+[![DISCORD SERVER](https://cardzera.audibert.dev/api/1112920281367973900?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&buttonBorderRadius&borderRadius=0&buttonText=Join%20my%20dev%20community&t={timestamp})](https://discord.gg/servidordosprogramadores)
