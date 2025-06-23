@@ -40,6 +40,7 @@ Socials
 [![GMAIL](https://img.shields.io/badge/contact.matheusaudibert@gmail.com-000000?style=flat&logo=Gmail&logoColor=white)](mailto:contact.audibert@gmail.com)
 [![DISCORD](https://img.shields.io/badge/grwx-000000?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1274150219482660897)
 
-Join my Discord server
+Join my Discord servers
 
+[![DISCORD SERVER](https://cardzera.audibert.dev/api/1383718526694461532?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&buttonBorderRadius&borderRadius=0&t={timestamp})](https://discord.gg/bJdhWHDg5W)
 [![DISCORD SERVER](https://cardzera.audibert.dev/api/1112920281367973900?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&buttonBorderRadius&borderRadius=0&t={timestamp})](https://discord.gg/servidordosprogramadores)
