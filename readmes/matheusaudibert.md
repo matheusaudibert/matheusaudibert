@@ -2,6 +2,8 @@
 
 I'm a brazilian software developer and content creator, passionate about programming and technology. I love building projects, and I'm always looking for new ways to solve real-world problems with code. Here, you'll find some of my latest projects where I explore various technologies and languages, always with the goal of learning and sharing knowledge.
 
+🏅 Winner of [Alura's AI Bootcamp (Imersão IA)](https://grupoalura.notion.site/Imers-o-IA-Guia-de-Mergulho-1d2379bdd09b803982a5ee1abd89e0cb), a program focused on artificial intelligence and innovation. Check my project [here](https://github.com/matheusaudibert/projeto-aprova).
+
 I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@audibert)"!
 
 <p align="left">
@@ -15,8 +17,6 @@ I publish my content on my YouTube channel "[audibert](https://www.youtube.com/@
       <a href="https://github.com/matheusaudibert?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/matheusaudibert?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
-
-🏅 Winner of [Alura's AI Bootcamp (Imersão IA)](https://grupoalura.notion.site/Imers-o-IA-Guia-de-Mergulho-1d2379bdd09b803982a5ee1abd89e0cb), a program focused on artificial intelligence and innovation. Check my project [here](https://github.com/matheusaudibert/projeto-aprova).
 
 ## Languages and Tools
 
