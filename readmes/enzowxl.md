@@ -2,6 +2,8 @@
 
 Hello, my name is Matheus Audibert, I'm a brazilian software engineering student and I really like developing softwares.
 
+Winner of [Alura's AI Bootcamp](https://grupoalura.notion.site/Imers-o-IA-Guia-de-Mergulho-1d2379bdd09b803982a5ee1abd89e0cb) (Imersão IA).
+
 I publish my content on my YouTube channel [audibert](https://www.youtube.com/@audibert).
 
 [![SUBSCRIBE](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCIO1e3zJ-c2oQCWnmY4nqIQ?color=000000&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=000000)](https://www.youtube.com/channel/UCIO1e3zJ-c2oQCWnmY4nqIQ?sub_confirmation=1)
@@ -9,15 +11,13 @@ I publish my content on my YouTube channel [audibert](https://www.youtube.com/@a
 [![FOLLOW](https://custom-icon-badges.demolab.com/github/followers/matheusaudibert?color=000000&label=FOLLOW&logo=github&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/matheusaudibert?tab=followers)
 [![STARS](https://custom-icon-badges.demolab.com/github/stars/matheusaudibert?color=000000&label=STARS&logo=star&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/matheusaudibert?tab=repositories&sort=stargazers)
 
-Latest Videos
+#### Latest Videos
 
 [![YouTube Card](https://ytcards.audibert.dev/api/aO3A4S2ag8s?width=250&background_color=000000)](https://youtube.com/watch?v=aO3A4S2ag8s)
 [![YouTube Card](https://ytcards.audibert.dev/api/RcBNKG2X6jU?width=250&background_color=000000)](https://youtube.com/watch?v=RcBNKG2X6jU)
 [![YouTube Card](https://ytcards.audibert.dev/api/3sJCXoxgbHQ?width=250&background_color=000000)](https://youtube.com/watch?v=3sJCXoxgbHQ)
 
-Winner of [Alura's AI Bootcamp](https://grupoalura.notion.site/Imers-o-IA-Guia-de-Mergulho-1d2379bdd09b803982a5ee1abd89e0cb) (Imersão IA).
-
-Technologies and tools
+#### Technologies and tools
 
 [![PYTHON](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)]()
 [![JAVA](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white)]()
@@ -37,7 +37,7 @@ Technologies and tools
 [![API REST](https://img.shields.io/badge/api_rest-000000?style=for-the-badge&logo=postman&logoColor=white)]()
 [![DISCORD.JS](https://img.shields.io/badge/discord.js-000000?style=for-the-badge&logo=discord&logoColor=white)]()
 
-Socials
+#### Socials
 
 [![LINKEDIN](https://img.shields.io/badge/Matheus%20Audibert-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusaudibert/)
 [![INSTAGRAM](https://img.shields.io/badge/tlvzaudibert-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tlvzaudibert/)
@@ -46,7 +46,7 @@ Socials
 [![GMAIL](https://img.shields.io/badge/contact.matheusaudibert@gmail.com-000000?style=flat&logo=Gmail&logoColor=white)](mailto:contact.audibert@gmail.com)
 [![DISCORD](https://img.shields.io/badge/grwx-000000?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1274150219482660897)
 
-Join my Discord servers
+#### Join my Discord servers
 
 [![DISCORD SERVER](https://cardzera.audibert.dev/api/1383718526694461532?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&buttonBorderRadius&borderRadius=0&buttonText=Join%20my%20professional%20server&t={timestamp})](https://discord.gg/bJdhWHDg5W)
 [![DISCORD SERVER](https://cardzera.audibert.dev/api/1112920281367973900?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&buttonBorderRadius&borderRadius=0&buttonText=Join%20my%20dev%20community&t={timestamp})](https://discord.gg/servidordosprogramadores)
