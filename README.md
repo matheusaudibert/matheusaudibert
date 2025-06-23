@@ -42,4 +42,4 @@ Socials
 
 Join my Discord server
 
-[![DISCORD SERVER](https://cardzera.audiber.dev/api/1112920281367973900?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&buttonBorderRadius&borderRadius=0&t={timestamp})](https://discord.gg/servidordosprogramadores)
+[![DISCORD SERVER](https://cardzera.audibert.dev/api/1112920281367973900?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&buttonBorderRadius&borderRadius=0&t={timestamp})](https://discord.gg/servidordosprogramadores)
