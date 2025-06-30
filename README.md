@@ -39,7 +39,7 @@ I publish my content on my YouTube channel [audibert](https://www.youtube.com/@a
 
 #### Join my Discord servers
 
-[![DISCORD SERVER](https://cardzera.audibert.dev/api/1383718526694461532?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&buttonBorderRadius&borderRadius=0&buttonText=Join%20my%20professional%20server&t={timestamp})](https://discord.gg/bJdhWHDg5W)
+[![DISCORD PRESENCE](https://cardzera.audibert.dev/api/1383718526694461532?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&buttonBorderRadius&borderRadius=0&buttonText=Join%20my%20professional%20server&t={timestamp})](https://discord.gg/bJdhWHDg5W)
 [![DISCORD SERVER](https://cardzera.audibert.dev/api/1112920281367973900?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&buttonBorderRadius&borderRadius=0&buttonText=Join%20my%20dev%20community&t={timestamp})](https://discord.gg/servidordosprogramadores)
 
 #### Socials
