@@ -20,7 +20,6 @@ I publish my content on my YouTube channel [audibert](https://www.youtube.com/@a
 #### Technologies and tools
 
 [![PYTHON](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)]()
-[![JAVA](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white)]()
 [![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
 [![TYPESCRIPT](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![NEXT](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
@@ -48,7 +47,7 @@ I publish my content on my YouTube channel [audibert](https://www.youtube.com/@a
 [![INSTAGRAM](https://img.shields.io/badge/tlvzaudibert-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tlvzaudibert/)
 [![TWITTER](https://img.shields.io/badge/audibwrt-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/@audibwrt)
 [![YOUTUBE](https://img.shields.io/badge/audibert-000000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@audibert)
-[![GMAIL](https://img.shields.io/badge/contact.matheusaudibert@gmail.com-000000?style=flat&logo=Gmail&logoColor=white)](mailto:contact.audibert@gmail.com)
+[![GMAIL](https://img.shields.io/badge/contact.audibert@gmail.com-000000?style=flat&logo=Gmail&logoColor=white)](mailto:contact.audibert@gmail.com)
 [![DISCORD](https://img.shields.io/badge/grwx-000000?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1274150219482660897)
 
 Check my [README.md v2](readmes/v2.md).
