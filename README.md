@@ -13,9 +13,9 @@ I publish my content on my YouTube channel [audibert](https://www.youtube.com/@a
 
 #### Latest videos
 
-[![YouTube Card](https://ytcards.audibert.dev/api/aO3A4S2ag8s?width=250&background_color=000000)](https://youtube.com/watch?v=aO3A4S2ag8s)
-[![YouTube Card](https://ytcards.audibert.dev/api/RcBNKG2X6jU?width=250&background_color=000000)](https://youtube.com/watch?v=RcBNKG2X6jU)
-[![YouTube Card](https://ytcards.audibert.dev/api/3sJCXoxgbHQ?width=250&background_color=000000)](https://youtube.com/watch?v=3sJCXoxgbHQ)
+[![YouTube Card](https://ytcards.audibert.dev/api/aO3A4S2ag8s?width=200&background_color=000000)](https://youtube.com/watch?v=aO3A4S2ag8s)
+[![YouTube Card](https://ytcards.audibert.dev/api/RcBNKG2X6jU?width=200&background_color=000000)](https://youtube.com/watch?v=RcBNKG2X6jU)
+[![YouTube Card](https://ytcards.audibert.dev/api/3sJCXoxgbHQ?width=200&background_color=000000)](https://youtube.com/watch?v=3sJCXoxgbHQ)
 
 #### Technologies and tools
 
