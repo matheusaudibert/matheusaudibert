@@ -1,4 +1,4 @@
-<img alt="image" src="https://i.postimg.cc/VkggD9Jw/itau.png" />
+<img alt="image" src="https://i.postimg.cc/cCWtpjzB/Design-sem-nome.png" />
 
 ## Matheus Audibert
 
