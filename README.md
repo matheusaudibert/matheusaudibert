@@ -1,5 +1,3 @@
-<img alt="image" src="https://i.postimg.cc/VkggD9Jw/itau.png" />
-
 ## Matheus Audibert
 
 Hello, my name is Matheus Audibert, I'm a brazilian software engineering at [Itaú Unibanco](https://www.itau.com.br), a student at [FIAP](https://www.fiap.com.br) and a content creator. I really like developing softwares.
