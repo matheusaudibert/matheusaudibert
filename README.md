@@ -49,5 +49,3 @@ I publish my content on my YouTube channel [audibert](https://www.youtube.com/@a
 [![YOUTUBE](https://img.shields.io/badge/audibert-000000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@audibert)
 [![GMAIL](https://img.shields.io/badge/contact.audibert@gmail.com-000000?style=flat&logo=Gmail&logoColor=white)](mailto:contact.audibert@gmail.com)
 [![DISCORD](https://img.shields.io/badge/audibert-000000?style=flat&logo=discord&logoColor=white)](https://discord.com/users/161092845040566272)
-
-Check my other [README.md versions](readmes/).
