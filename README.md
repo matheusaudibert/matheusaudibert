@@ -43,6 +43,7 @@ I publish my content on my YouTube channel [audibert](https://www.youtube.com/@a
 
 #### Socials
 
+[![PORTFOLIO](https://img.shields.io/badge/audibert.DEV-000000?style=flat&logo=vercel&logoColor=white)](https://audibert.dev)
 [![LINKEDIN](https://img.shields.io/badge/Matheus%20Audibert-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusaudibert/)
 [![EMAIL](https://img.shields.io/badge/hi@audibert.dev-000000?style=flat&logo=icloud&logoColor=white)](mailto:hi@audibert.dev)
 [![INSTAGRAM](https://img.shields.io/badge/audibert.dev-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/audibert.dev/)
