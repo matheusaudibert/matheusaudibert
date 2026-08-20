@@ -6,8 +6,8 @@ Winner of [Alura's AI Bootcamp](https://github.com/matheusaudibert/projeto-aprov
 
 I publish my content on my YouTube channel [audibert](https://www.youtube.com/@audibert).
 
-[![SUBSCRIBE](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCIO1e3zJ-c2oQCWnmY4nqIQ?color=000000&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=000000)](https://www.youtube.com/channel/UCIO1e3zJ-c2oQCWnmY4nqIQ?sub_confirmation=1)
-[![VIEWS](https://custom-icon-badges.demolab.com/youtube/channel/views/UCIO1e3zJ-c2oQCWnmY4nqIQ?color=000000&label=VIEWS&logo=eye&logoColor=white&style=for-the-badge&labelColor=000000)](https://www.youtube.com/channel/UCIO1e3zJ-c2oQCWnmY4nqIQ)
+[![SUBSCRIBE](https://custom-icon-badges.demolab.com/badge/SUBSCRIBE-9.5K-000000?logo=video&logoColor=white&style=for-the-badge&labelColor=000000)](https://www.youtube.com/channel/UCIO1e3zJ-c2oQCWnmY4nqIQ?sub_confirmation=1)
+[![VIEWS](https://custom-icon-badges.demolab.com/badge/VIEWS-218.8K-000000?logo=eye&logoColor=white&style=for-the-badge&labelColor=000000)](https://www.youtube.com/channel/UCIO1e3zJ-c2oQCWnmY4nqIQ)
 [![FOLLOW](https://custom-icon-badges.demolab.com/github/followers/matheusaudibert?color=000000&label=FOLLOW&logo=github&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/matheusaudibert?tab=followers)
 [![STARS](https://custom-icon-badges.demolab.com/github/stars/matheusaudibert?color=000000&label=STARS&logo=star&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/matheusaudibert?tab=repositories&sort=stargazers)
 
