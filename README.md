@@ -47,5 +47,5 @@ I publish my content on my YouTube channel [audibert](https://www.youtube.com/@a
 [![INSTAGRAM](https://img.shields.io/badge/tlvzaudibert-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tlvzaudibert/)
 [![TWITTER](https://img.shields.io/badge/audibwrt-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/@audibwrt)
 [![YOUTUBE](https://img.shields.io/badge/audibert-000000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@audibert)
-[![GMAIL](https://img.shields.io/badge/contact.audibert@gmail.com-000000?style=flat&logo=Gmail&logoColor=white)](mailto:contact.audibert@gmail.com)
+[![EMAIL](https://img.shields.io/badge/hi@audibert.dev-000000?style=flat&logo=Gmail&logoColor=white)](mailto:hi@audibert.dev)
 [![DISCORD](https://img.shields.io/badge/audibert-000000?style=flat&logo=discord&logoColor=white)](https://discord.com/users/161092845040566272)
