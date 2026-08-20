@@ -1,0 +1,70 @@
+name: Atualizar badges do YouTube
+
+on:
+  schedule:
+    - cron: "0 9 * * *"   # 09:00 UTC = 06:00 no horário de Brasília
+  workflow_dispatch:       # permite rodar manualmente pela aba Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Buscar estatísticas do canal
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          CHANNEL_ID: UCIO1e3zJ-c2oQCWnmY4nqIQ
+        run: |
+          set -euo pipefail
+
+          JSON=$(curl -sf \
+            "https://www.googleapis.com/youtube/v3/channels?part=statistics&id=${CHANNEL_ID}&key=${YOUTUBE_API_KEY}")
+
+          SUBS=$(echo "$JSON"  | jq -r '.items[0].statistics.subscriberCount')
+          VIEWS=$(echo "$JSON" | jq -r '.items[0].statistics.viewCount')
+
+          if [ -z "$SUBS" ] || [ "$SUBS" = "null" ] || [ "$VIEWS" = "null" ]; then
+            echo "::error::Não foi possível obter as estatísticas do canal."
+            exit 1
+          fi
+
+          echo "Inscritos: $SUBS | Views: $VIEWS"
+
+          # 1234 -> 1.2K   |   1200000 -> 1.2M   |   980 -> 980
+          SUBS="$SUBS" VIEWS="$VIEWS" python3 -c '
+          import os
+
+          def pretty(var):
+              n = int(os.environ[var])
+              if n >= 1000000:
+                  return f"{n/1000000:.1f}M".replace(".0M", "M")
+              if n >= 1000:
+                  return f"{n/1000:.1f}K".replace(".0K", "K")
+              return str(n)
+
+          with open(os.environ["GITHUB_ENV"], "a") as f:
+              f.write("SUBS_PRETTY=" + pretty("SUBS") + "\n")
+              f.write("VIEWS_PRETTY=" + pretty("VIEWS") + "\n")
+          '
+
+      - name: Reescrever os badges no README
+        run: |
+          sed -i -E \
+            -e "s|/badge/SUBSCRIBE-[^-]+-000000|/badge/SUBSCRIBE-${SUBS_PRETTY}-000000|g" \
+            -e "s|/badge/VIEWS-[^-]+-000000|/badge/VIEWS-${VIEWS_PRETTY}-000000|g" \
+            README.md
+
+      - name: Commitar se mudou
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "Nada mudou."
+          else
+            git commit -am "chore: atualiza badges do YouTube [skip ci]"
+            git push
+          fi
