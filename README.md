@@ -2,8 +2,6 @@
 
 Hello, my name is Matheus Audibert, I'm a brazilian software engineering at [Itaú Unibanco](https://www.itau.com.br), a student at [FIAP](https://www.fiap.com.br) and a content creator. I really like developing softwares.
 
-Winner of [Alura's AI Bootcamp](https://github.com/matheusaudibert/projeto-aprova) (Imersão IA).
-
 I publish my content on my YouTube channel [audibert](https://www.youtube.com/@audibert).
 
 [![SUBSCRIBE](https://custom-icon-badges.demolab.com/badge/SUBSCRIBE-9.5K-000000?logo=video&logoColor=white&style=for-the-badge&labelColor=000000)](https://www.youtube.com/channel/UCIO1e3zJ-c2oQCWnmY4nqIQ?sub_confirmation=1)
