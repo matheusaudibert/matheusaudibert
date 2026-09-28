@@ -1,6 +1,6 @@
 ## Matheus Audibert
 
-Hello, my name is Matheus Audibert, I'm a brazilian software engineering at [Itaú Unibanco](https://www.itau.com.br), a student at [FIAP](https://www.fiap.com.br) and a content creator. I really like developing softwares.
+Hello, my name is Matheus Audibert, I'm a brazilian software engineer at [Itaú Unibanco](https://www.itau.com.br), a student at [FIAP](https://www.fiap.com.br) and a content creator. I really like developing softwares.
 
 I publish my content on my YouTube channel [audibert](https://www.youtube.com/@audibert).
 
