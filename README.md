@@ -38,8 +38,8 @@ I publish my content on my YouTube channel [audibert](https://www.youtube.com/@a
 
 #### Discord servers
 
-[![DISCORD SERVER](https://cardzera.audibert.dev/api/1550342460008304675?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&buttonBorderRadius&borderRadius=0&buttonText=Join%20my%20dev%20community&t={timestamp})](https://discord.gg/nerdsbrasil)
-[![DISCORD SERVER](https://cardzera.audibert.dev/api/1383718526694461532?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&buttonBorderRadius&borderRadius=0&buttonText=Join%20my%20professional%20server&t={timestamp})](https://discord.gg/8j3bHRhSVp)
+[![DISCORD SERVER](https://cardzera.audibert.dev/api/1550342460008304675?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&buttonBorderRadius&borderRadius=0&buttonText=Join%20my%20dev%20community)](https://discord.gg/nerdsbrasil)
+[![DISCORD SERVER](https://cardzera.audibert.dev/api/1383718526694461532?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&buttonBorderRadius&borderRadius=0&buttonText=Join%20my%20professional%20server)](https://discord.gg/8j3bHRhSVp)
 
 #### Socials
 
